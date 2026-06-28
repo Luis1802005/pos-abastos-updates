@@ -1,6 +1,7 @@
 {
-  "version": "2026.06.28.5",
-  "url": "https://github.com/Luis1802005/pos-abastos-updates/releases/download/v2026.06.28.5/POS_Abastos_update_v2026.06.28.5.zip",
-  "notes": "Corregido cierre automatico despues de actualizar y posicionamiento del aviso de tickets pendientes",
-  "sha256": "0ad4ecc82ee645d67cab45541efb8bddb5964259ffb63a22e76d13b705c5f80a"
+  "version": "2026.06.28.8",
+  "url": "https://github.com/Luis1802005/pos-abastos-updates/releases/download/v2026.06.28.8/POS_Abastos_update_v2026.06.28.8.zip",
+  "notes": "Se corrigio el aviso de tickets pendientes restaurados para que aparezca centrado al abrir el programa. Tambien se mantiene el actualizador sin ventana CMD y el POS debe volver a abrirse al terminar.",
+  "sha256": "e00e7a63ecde2ecdaf205d03d3ceb8fe8ebafbd8e71c4498dfdb4dd979b9a8e2"
 }
+
