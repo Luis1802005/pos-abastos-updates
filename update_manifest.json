@@ -1,6 +1,6 @@
 {
   "version": "2026.06.28.1",
   "url": "https://github.com/Luis1802005/pos-abastos-updates/releases/download/v2026.06.28.1/POS_Abastos_update.zip",
-  "notes": "Actualización del POS Abastos.",
-  "sha256": ""
+  "notes": "Version de prueba: se quito el boton Actualizar de la barra principal y se dejo solo en Configuracion > Actualizaciones Automaticas.",
+  "sha256": "a3ca4d26a935cb2df49d47fe9c3ec6943b1f3879ab616c7c27767fef4e40de8b"
 }
