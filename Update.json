@@ -1,7 +1,8 @@
 {
-  "version": "2026.06.28.8",
-  "url": "https://github.com/Luis1802005/pos-abastos-updates/releases/download/v2026.06.28.8/POS_Abastos_update_v2026.06.28.8.zip",
-  "notes": "Se corrigio el aviso de tickets pendientes restaurados para que aparezca centrado al abrir el programa. Tambien se mantiene el actualizador sin ventana CMD y el POS debe volver a abrirse al terminar.",
-  "sha256": "e00e7a63ecde2ecdaf205d03d3ceb8fe8ebafbd8e71c4498dfdb4dd979b9a8e2"
+  "version": "2026.06.28.9",
+  "url": "https://github.com/Luis1802005/pos-abastos-updates/releases/download/v2026.06.28.9/POS_Abastos_update_v2026.06.28.9.zip",
+  "notes": "Se agrego un boton en Clientes para eliminar todos los clientes rapidamente con doble confirmacion y respaldo automatico de la base. Tambien se corrigio que el sistema ya no vuelva a crear clientes repetidos automaticamente.",
+  "sha256": "b91198933a7e9a2a82e08340feca847ba6e333a7d1f36782c969d226aba9c1b8"
 }
+
 
