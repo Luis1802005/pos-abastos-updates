@@ -1,8 +1,0 @@
-{
-  "version": "2026.06.28.3",
-  "url": "https://github.com/Luis1802005/pos-abastos-updates/releases/download/v2026.06.28.3/POS_Abastos_update_v2026.06.28.3.zip",
-  "notes": "Se corrigio el aviso despues de actualizar: ahora el POS muestra una ventana bonita una sola vez por version, incluso si la version anterior no dejo el archivo de notas.",
-  "sha256": "65847566dedf016af3d68ef02c98caa1e7944a346950dda0fcd84d07cd3660ad"
-}
-
-
