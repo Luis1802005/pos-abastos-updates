@@ -1,0 +1,6 @@
+{
+  "version": "2026.06.28.5",
+  "url": "https://github.com/Luis1802005/pos-abastos-updates/releases/download/v2026.06.28.5/POS_Abastos_update_v2026.06.28.5.zip",
+  "notes": "Version de prueba: el aviso de tickets pendientes restaurados queda centrado, con ancho controlado y texto en dos lineas cuando incluye fecha.",
+  "sha256": "c10be3bc708bdb588d9d1158b8c384cde991e4445d142e8e24a802395449c5b7"
+}
