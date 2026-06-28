@@ -1,6 +1,6 @@
 {
   "version": "2026.06.28.2",
-  "url": "https://github.com/Luis1802005/pos-abastos-updates/releases/download/v2026.06.28.2/POS_Abastos_update.zip",
+  "url": "https://github.com/Luis1802005/pos-abastos-updates/releases/download/v2026.06.28.2/POS_Abastos_update_v2026.06.28.2.zip",
   "notes": "Nueva ventana al terminar una actualizacion: al volver a abrir el POS se muestra una pantalla bonita con la version instalada y los cambios aplicados.",
   "sha256": "5634c5d91315b37e217ebe32683b1112c962ff2e009fb20b0991ede02beeea61"
 }
