@@ -1,8 +1,7 @@
 {
-  "version": "2026.06.28.9",
-  "url": "https://github.com/Luis1802005/pos-abastos-updates/releases/download/v2026.06.28.9/POS_Abastos_update_v2026.06.28.9.zip",
-  "notes": "Se agrego un boton en Clientes para eliminar todos los clientes rapidamente con doble confirmacion y respaldo automatico de la base. Tambien se corrigio que el sistema ya no vuelva a crear clientes repetidos automaticamente.",
-  "sha256": "b91198933a7e9a2a82e08340feca847ba6e333a7d1f36782c969d226aba9c1b8"
+    "version":  "2026.07.22.4",
+    "url":  "https://github.com/Luis1802005/pos-abastos-updates/releases/download/v2026.07.22.4/POS_Abastos_update_v2026.07.22.4.zip",
+    "notes":  "Correccion para ejecutar el proyecto sin instalar: se quito una llamada incompatible de PySide6 en el campo de codigo. Se conserva el texto mas grueso y el foco mas visible.",
+    "sha256":  "51ca239e3d27b03337c1943b856198f6fe8a14e69e4bc7215cc82dcc78405a5c"
 }
-
 
