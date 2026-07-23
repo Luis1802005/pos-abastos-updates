@@ -1,7 +1,7 @@
 {
-    "version":  "2026.07.22.4",
-    "url":  "https://github.com/Luis1802005/pos-abastos-updates/releases/download/v2026.07.22.4/POS_Abastos_update_v2026.07.22.4.zip",
-    "notes":  "Correccion para ejecutar el proyecto sin instalar: se quito una llamada incompatible de PySide6 en el campo de codigo. Se conserva el texto mas grueso y el foco mas visible.",
-    "sha256":  "51ca239e3d27b03337c1943b856198f6fe8a14e69e4bc7215cc82dcc78405a5c"
+    "version":  "2026.07.22.6",
+    "url":  "https://github.com/Luis1802005/pos-abastos-updates/releases/download/v2026.07.22.6/POS_Abastos_update_v2026.07.22.6.zip",
+    "notes":  "Corrige productos a granel cuando se escribe el importe: si capturas $20.00, el ticket conserva $20.00 y no lo sube por redondeo de cantidad.",
+    "sha256":  "f242abcbd55475e8b7163d23d5d24b6d85d1d9b402d1a403b4af5a19077074d9"
 }
 
