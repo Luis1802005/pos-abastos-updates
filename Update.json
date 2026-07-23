@@ -1,7 +1,6 @@
 {
-    "version":  "2026.07.22.6",
-    "url":  "https://github.com/Luis1802005/pos-abastos-updates/releases/download/v2026.07.22.6/POS_Abastos_update_v2026.07.22.6.zip",
-    "notes":  "Corrige productos a granel cuando se escribe el importe: si capturas $20.00, el ticket conserva $20.00 y no lo sube por redondeo de cantidad.",
-    "sha256":  "f242abcbd55475e8b7163d23d5d24b6d85d1d9b402d1a403b4af5a19077074d9"
+    "version":  "2026.07.23.2",
+    "url":  "https://github.com/Luis1802005/pos-abastos-updates/releases/download/v2026.07.23.2/POS_Abastos_update_v2026.07.23.2.zip",
+    "notes":  "Agrega sonido de alerta cuando un producto no existe o no tiene existencia. Mantiene las correcciones del actualizador y de productos a granel.",
+    "sha256":  "c0e5bfe5b4ea5357aa41fb3070be360c6e663005f2cec8ee9b01982e6cf60cf2"
 }
-
