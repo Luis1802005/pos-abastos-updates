@@ -1,6 +1,6 @@
 {
-    "version":  "2026.07.23.2",
-    "url":  "https://github.com/Luis1802005/pos-abastos-updates/releases/download/v2026.07.23.2/POS_Abastos_update_v2026.07.23.2.zip",
-    "notes":  "Agrega sonido de alerta cuando un producto no existe o no tiene existencia. Mantiene las correcciones del actualizador y de productos a granel.",
-    "sha256":  "c0e5bfe5b4ea5357aa41fb3070be360c6e663005f2cec8ee9b01982e6cf60cf2"
+    "version": "2026.07.24.1",
+    "url": "https://github.com/Luis1802005/pos-abastos-updates/releases/download/v2026.07.24.1/POS_Abastos_update_v2026.07.24.1.zip",
+    "notes": "El aviso de producto inexistente vuelve a mostrarse en naranja y conserva el sonido. Producto sin existencia permanece en rojo. Los mensajes de inventario ahora son mas grandes y legibles. Ventas por periodo se actualiza automaticamente cada vez que se abre.",
+    "sha256": "54c5e63612e6b5ac4d3c92b5f59f4e274812eb74fe4dfd44e5922f91e95a0aa9"
 }
